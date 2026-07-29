@@ -1,0 +1,16 @@
+{
+  "packageId": "rs.skola.prijavanasilja",
+  "host": "TVOJ-SAJT.vercel.app",
+  "name": "Prijava vršnjačkog nasilja",
+  "launcherName": "Prijava",
+  "display": "standalone",
+  "themeColor": "#2B4C5C",
+  "navigationColor": "#2B4C5C",
+  "backgroundColor": "#F6F3EC",
+  "startUrl": "/",
+  "iconUrl": "https://TVOJ-SAJT.vercel.app/icon-512.png",
+  "maskableIconUrl": "https://TVOJ-SAJT.vercel.app/icon-512-maskable.png",
+  "orientation": "portrait",
+  "shortcuts": [],
+  "generatorApp": "bubblewrap-cli"
+}
